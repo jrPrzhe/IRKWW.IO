@@ -42,9 +42,17 @@ const Hero = ({
               <p className="text-black-500 mt-4 mb-6">
               Создайте удобную и безопасную сеть для любых ваших задач с легкостью и удовольствием, открывая для себя интересные возможности вместе с WW.
               </p>
-              <ButtonPrimary>
-  <a href="https://web.telegram.org/a/#7295487724" target="_blank" rel="noopener noreferrer">
-    Оставить заявку
+               <ButtonPrimary>
+  <a
+    href="https://t.me/irk_proxy?text=Привет! <br><br>
+
+Я хотел бы оставить заявку на услугу. Пожалуйста, дайте знать, как я могу это сделать и какие детали вам нужны. <br><br>
+
+Спасибо!"
+    target="_blank"
+    rel="noopener noreferrer"
+  >
+    Оставить заявку!
   </a>
 </ButtonPrimary>
             </div>
