@@ -74,11 +74,20 @@ const Pricing = () => {
                   <p className="text-2xl text-black-600 text-center mb-4 ">
                     РУБ. 690 <span className="text-black-500"><br/>1 мес</span>
                   </p>
-                  <ButtonPrimary>
-  <a href="https://web.telegram.org/a/#7295487724" target="_blank" rel="noopener noreferrer">
+                  
+
+              <ButtonPrimary>
+  <a
+    href="https://t.me/irk_proxy?text=Привет! Присматриваюсь к тарифу на месяц)"
+    target="_blank"
+    rel="noopener noreferrer"
+  >
     Выбрать
   </a>
 </ButtonPrimary>
+
+
+                      
                 </div>
               </motion.div>
             </ScrollAnimationWrapper>
@@ -122,8 +131,12 @@ const Pricing = () => {
                 <p className="text-2xl text-black-600 text-center mb-4 ">
                   РУБ. 1 799 <span className="text-black-500"><br/>3 мес</span>
                 </p>
-                <ButtonPrimary>
-  <a href="https://web.telegram.org/a/#7295487724" target="_blank" rel="noopener noreferrer">
+                  <ButtonPrimary>
+  <a
+    href="https://t.me/irk_proxy?text=Привет! Присматриваюсь к тарифу на 3 месяца)"
+    target="_blank"
+    rel="noopener noreferrer"
+  >
     Выбрать
   </a>
 </ButtonPrimary>
@@ -171,8 +184,12 @@ const Pricing = () => {
                   РУБ. 7.499<span className="text-black-500"><br/>12 мес</span>
                 </p>
 
-                <ButtonPrimary>
-  <a href="https://web.telegram.org/a/#7295487724" target="_blank" rel="noopener noreferrer">
+                  <ButtonPrimary>
+  <a
+    href="https://t.me/irk_proxy?text=Привет! Присматриваюсь к тарифу на год)"
+    target="_blank"
+    rel="noopener noreferrer"
+  >
     Выбрать
   </a>
 </ButtonPrimary>
@@ -254,9 +271,17 @@ const Pricing = () => {
                   </h5>
                   <p>Let's go WWWWWW</p>
                   </div>
-                <ButtonPrimary>
-  <a href="https://web.telegram.org/a/#7295487724" target="_blank" rel="noopener noreferrer">
-    Оставить заявку
+                  <ButtonPrimary>
+  <a
+    href="https://t.me/irk_proxy?text=Привет! </br></br>
+
+Я хотел бы оставить заявку на услугу. Пожалуйста, дайте знать, как я могу это сделать и какие детали вам нужны.</br></br>
+
+Спасибо!"
+    target="_blank"
+    rel="noopener noreferrer"
+  >
+    Оставить заявку!
   </a>
 </ButtonPrimary>
               </div>
