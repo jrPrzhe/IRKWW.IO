@@ -129,7 +129,7 @@ const Pricing = () => {
                 </ul>
               <div className="flex flex-col w-full justify-center mb-8 flex-none mt-12">
                 <p className="text-2xl text-black-600 text-center mb-4">
-  РУБ. 1 799 <span className="text-black-500"><br/>3 мес</span>
+  РУБ. 1 790 <span className="text-black-500"><br/>3 мес</span>
   <br />
   <span className="line-through text-black-500">2 300</span>
 </p>
