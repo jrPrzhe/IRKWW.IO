@@ -128,9 +128,11 @@ const Pricing = () => {
                   </li>
                 </ul>
               <div className="flex flex-col w-full justify-center mb-8 flex-none mt-12">
-                <p className="text-2xl text-black-600 text-center mb-4 ">
-                  РУБ. 1 799 <span className="text-black-500"><br/>3 мес</span>
-                </p>
+                <p className="text-2xl text-black-600 text-center mb-4">
+  РУБ. 1 799 <span className="text-black-500"><br/>3 мес</span>
+  <br />
+  <span className="line-through text-black-500">2 300</span>
+</p>
                   <ButtonPrimary>
   <a
     href="https://t.me/irk_proxy?text=Привет! Присматриваюсь к тарифу на 3 месяца)"
@@ -180,9 +182,11 @@ const Pricing = () => {
                   </li>
                 </ul>
               <div className="flex flex-col w-full justify-center mb-8 flex-none mt-12">
-                <p className="text-2xl text-black-600 text-center mb-4 ">
-                  РУБ. 7.499<span className="text-black-500"><br/>12 мес</span>
-                </p>
+                <p className="text-2xl text-black-600 text-center mb-4">
+  РУБ. 7 490 <span className="text-black-500"><br/>12 мес</span>
+  <br />
+  <span className="line-through text-black-500">8 800</span>
+</p>
 
                   <ButtonPrimary>
   <a
