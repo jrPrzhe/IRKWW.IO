@@ -7,7 +7,7 @@ const defaultMeta = {
   title: 'Границы WW',
   siteName: 'Границы WW',
   description:
-    'Границы WW лучший VPN Для безопасного использования в интернете, Устанавливай и Пользуйся',
+    'Границы WW лучший впн Для безопасного использования в интернете, Устанавливай и Пользуйся',
   // change base url of your web (without '/' at the end)
   url: 'https://next-landing-vpn.vercel.app',
   type: 'website',
