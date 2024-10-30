@@ -58,16 +58,16 @@ const Pricing = () => {
                 </p>
                 <ul className="flex flex-col list-inside pl-6 xl:pl-0 items-start justify-start text-left text-black-500 flex-grow">
                   <li className="relative check custom-list my-2">
-                    Нет рекламы и НЕ БУДЕТ! WW
+                    Полный доступ без рекламы! WW
                   </li>
                   <li className="relative check custom-list my-2">
-                    Огромное Количество  Подключенных Девайсов
+                    Подключите любое количество устройств
                   </li>
                   <li className="relative check custom-list my-2">
-                    Не замедляет основную сеть
+                    Максимум скорости для вашей сети, без влияния на доступ к российским сервисам
                   </li>
                   <li className="relative check custom-list my-2">
-                    Телевизор, планшеты, ноутбуки
+                    Работает на любом устройстве: ТВ, планшеты, ноутбуки
                   </li>
                 </ul>
                 <div className="flex flex-col w-full justify-center mb-8 flex-none mt-12">
@@ -117,16 +117,16 @@ const Pricing = () => {
               </p>
               <ul className="flex flex-col list-inside pl-6 xl:pl-0 items-start justify-start text-left text-black-500 flex-grow">
                   <li className="relative check custom-list my-2">
-                    Нет рекламы и НЕ БУДЕТ! WW
+                    Забудьте о рекламе навсегда! WW
                   </li>
                   <li className="relative check custom-list my-2">
-                    Огромное Количество  Подключенных Девайсов
+                    Подключайте всё, что хотите — без ограничений.
                   </li>
                   <li className="relative check custom-list my-2">
-                    Не замедляет основную сеть
+                    Высокая скорость, стабильная сеть. Российские сервисы остаются доступными.
                   </li>
                   <li className="relative check custom-list my-2">
-                    Телевизор, планшеты, ноутбуки
+                    Совместимость с ТВ, планшетами, ноутбуками и другими гаджетами.
                   </li>
                 </ul>
               <div className="flex flex-col w-full justify-center mb-8 flex-none mt-12">
@@ -171,16 +171,16 @@ const Pricing = () => {
               </p>
               <ul className="flex flex-col list-inside pl-6 xl:pl-0 items-start justify-start text-left text-black-500 flex-grow">
                   <li className="relative check custom-list my-2">
-                    Нет рекламы и НЕ БУДЕТ! WW
+                   Реклама вам не помешает! WW
                   </li>
                   <li className="relative check custom-list my-2">
-                    Огромное Количество  Подключенных Девайсов
+                    Поддержка большого числа устройств одновременно.
                   </li>
                   <li className="relative check custom-list my-2">
-                    Не замедляет основную сеть
+                    Максимум скорости для вашей сети, без влияния на доступ к российским сервисам.
                   </li>
                   <li className="relative check custom-list my-2">
-                    Телевизор, планшеты, ноутбуки
+                    Идеально подходит для ТВ, планшетов и ноутбуков.
                   </li>
                 </ul>
               <div className="flex flex-col w-full justify-center mb-8 flex-none mt-12">
