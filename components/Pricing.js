@@ -72,7 +72,9 @@ const Pricing = () => {
                 </ul>
                 <div className="flex flex-col w-full justify-center mb-8 flex-none mt-12">
                   <p className="text-2xl text-black-600 text-center mb-4 ">
-                    РУБ. 690 <span className="text-black-500"><br/>1 мес</span>
+                    РУБ. 440 <span className="text-black-500"><br/>1 мес</span>
+                      <br />
+                    <span className="line-through text-black-500">690</span>
                   </p>
                   
 
@@ -129,9 +131,9 @@ const Pricing = () => {
                 </ul>
               <div className="flex flex-col w-full justify-center mb-8 flex-none mt-12">
                 <p className="text-2xl text-black-600 text-center mb-4">
-  РУБ. 1 790 <span className="text-black-500"><br/>3 мес</span>
+  РУБ. 999 <span className="text-black-500"><br/>3 мес</span>
   <br />
-  <span className="line-through text-black-500">2 300</span>
+  <span className="line-through text-black-500">1 790</span>
 </p>
                   <ButtonPrimary>
   <a
@@ -183,9 +185,9 @@ const Pricing = () => {
                 </ul>
               <div className="flex flex-col w-full justify-center mb-8 flex-none mt-12">
                 <p className="text-2xl text-black-600 text-center mb-4">
-  РУБ. 7 490 <span className="text-black-500"><br/>12 мес</span>
+  РУБ. 3 999 <span className="text-black-500"><br/>12 мес</span>
   <br />
-  <span className="line-through text-black-500">8 800</span>
+  <span className="line-through text-black-500">7 490</span>
 </p>
 
                   <ButtonPrimary>
