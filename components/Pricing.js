@@ -275,7 +275,7 @@ const Pricing = () => {
                   <h5 className="text-black-600 text-xl sm:text-2xl lg:text-3xl leading-relaxed font-medium">
                     Напиши нам сейчас!  <br /> Получи специальное предложение!
                   </h5>
-                  <p>Let's go WWWWWW</p>
+                  <p>Let's go WWWWWW 01h4deegeszmutm7</p>
                   </div>
                   <ButtonPrimary>
   <a
